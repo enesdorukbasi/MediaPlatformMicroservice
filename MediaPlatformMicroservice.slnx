@@ -4,4 +4,7 @@
   <Folder Name="/src/services/catalog/">
     <Project Path="src/services/catalog/MediaPlatformMicroservice.Catalog.API/MediaPlatformMicroservice.Catalog.API.csproj" />
   </Folder>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
 </Solution>
