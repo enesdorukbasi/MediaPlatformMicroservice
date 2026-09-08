@@ -4,6 +4,9 @@
   <Folder Name="/src/services/catalog/">
     <Project Path="src/services/catalog/MediaPlatformMicroservice.Catalog.API/MediaPlatformMicroservice.Catalog.API.csproj" />
   </Folder>
+  <Folder Name="/src/shared/">
+    <Project Path="src/shared/MediaPlatformMicroservice.Shared/MediaPlatformMicroservice.Shared.csproj" Id="d8671264-d93f-46fb-a48c-c0a0ba581147" />
+  </Folder>
   <Project Path="docker-compose.dcproj">
     <Build />
   </Project>
